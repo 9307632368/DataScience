@@ -2,14 +2,16 @@
 
 ## Overview
 
-This repository contains Python programs and experiments related to data analysis and preprocessing. The focus is on understanding how to work with real-world data using common libraries like NumPy, Pandas, Matplotlib, and Seaborn.
+This repository contains Python programs and Data preprocessing related tasks. The goal is to understand the
+real world data by using libraries like numpy, pandas ,matplotlib, seaborn.
 
-The code covers basic data handling, cleaning, transformation, and visualization techniques that are useful for data science and machine learning tasks.
+These notebook covers the basics topics like python programming, basic data handling, cleaning, transformation, and visualization techniques that are useful for data science and machine learning tasks.
 
 ---
 
 ## What is Covered
 
+* Python Programming
 * Data handling using NumPy and Pandas
 * Data cleaning and preprocessing
 * Handling missing values
