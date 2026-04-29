@@ -34,8 +34,7 @@ The code covers basic data handling, cleaning, transformation, and visualization
 Python-Data-Analysis/
 │── Python Programming/
 │── Data Analysis/
-│── Machine Learning/
-│── Deep Learning/
+
 ```
 
 ---
@@ -76,4 +75,5 @@ This repository is created for practice and understanding of data analysis conce
 ## Author
 
 Rohan Pol
+
 M.Tech (AI & ML)
